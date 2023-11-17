@@ -1,1 +1,2 @@
-.*
+# Ignoran pasta de checkpoints
+.ipynb_checkpoints/
