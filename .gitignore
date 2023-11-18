@@ -1,2 +1,4 @@
 # Ignoran pasta de checkpoints
 .ipynb_checkpoints/
+data/
+dados/
